@@ -1,4 +1,4 @@
-# ExitedPurplePear
+# ExcitedPurplePear
 
 ## Features
 - Says hello world
