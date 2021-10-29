@@ -2,6 +2,9 @@
   "name": "excitedpurplepear",
   "displayName": "ExcitedPurplePear",
 	"publisher": "Alphapapazulu",
+	"repository": {
+		"url": "https://github.com/TylerZeroMaster/excitedpurplepear"
+	},
   "description": "",
   "version": "0.0.1",
   "engines": {
