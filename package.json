@@ -1,12 +1,13 @@
 {
   "name": "excitedpurplepear",
   "displayName": "ExcitedPurplePear",
+	"license": "LICENSE",
 	"publisher": "Alphapapazulu",
 	"repository": {
 		"url": "https://github.com/TylerZeroMaster/excitedpurplepear"
 	},
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.61.0"
   },
